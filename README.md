@@ -9,7 +9,11 @@ Improbable Beef, a food start-up, has partnered with a microbiology lab to resea
 ### Based on the ID number selected on the interactive webpage: 
 
 - Demographic information will be displayed
+![Demographic Info](/Demographic_Info.png)
 - The top ten bacteria cultures found within the selected participants' navel will be displayed in a bar graph, which has hover text that displays the bacteria names
+![Bacteria Bar Chart](/bacteria_bar_chart.png)
 - A bubble chart displays the bacteria cultures per sample, with the size of the bubbles representing the sample values
+![Bacteria Bubble Chart](/bubble_chart.png)
 - A gauge meter displays the belly button washing frequency in scrubs per week of the participants. 
+![Belly Button Wash Gauge](/wash_gauge.png)
 
