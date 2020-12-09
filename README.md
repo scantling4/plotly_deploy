@@ -1,4 +1,4 @@
-### Belly Button Diversity Dashboard
+# Belly Button Diversity Dashboard
 
 ## Purpose 
 To build an interactive dashboard to explore the Belly Button Diversity dataset which contains the various microbes that colonize human navels using Javascript, HTML and Plotly. 
@@ -6,7 +6,7 @@ To build an interactive dashboard to explore the Belly Button Diversity dataset 
 ## Overview
 Improbable Beef, a food start-up, has partnered with a microbiology lab to research bacteria that synthesizes proteins that taste like beef. It has been hypothesized that the bacteria needed to make the perfect synthetic beef can be found in the belly button of humans. 
 
-#Based on the ID number selected on the interactive webpage: 
+### Based on the ID number selected on the interactive webpage: 
 
 - Demographic information will be displayed
 - The top ten bacteria cultures found within the selected participants' navel will be displayed in a bar graph, which has hover text that displays the bacteria names
